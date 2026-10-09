@@ -20,7 +20,6 @@ Este repositório contém o código-fonte do meu portfólio pessoal, um website 
 - **HTML5:** Estrutura semântica da página.
 - **Bootstrap 5 (v5.3.8):** Sistema de grelha responsiva e componentes de UI.
 - **Bootstrap Icons (v1.13.1):** Ícones vetoriais.
-- **CSS3:** Estilização e layout responsivo.
 
 ---
 
